@@ -7,6 +7,7 @@ POSTGRES_DB = get_env_variable('POSTGRES_DB')
 
 
 class Config(object):
+    """We will dynamically load the config in the app using app.config.from_object"""
     DEBUG = False
     TESTING = False
     # SQLAlchemy
