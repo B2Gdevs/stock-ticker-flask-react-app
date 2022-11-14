@@ -35,3 +35,6 @@ _It is being populated, but selecting the ticker in the dropdown isn't working._
 - [x] Dropdown not updating to newly selected value
 - [ ] Remove hard coding of user id when creating orders (API supports multiple users and orders)
 - [ ] Yeesh, make it look nice.  Wasted time with Bootstrap CSS not loading.
+
+### Kept going, don't like showing bad work at this stage in my career 😅.  This is before I continue after my 4hr mark:
+![image](https://user-images.githubusercontent.com/25157436/201715834-59b79a0a-59fd-4cdb-8276-5cc618aa3a73.png)
