@@ -27,6 +27,6 @@ _It is being populated, but selecting the ticker in the dropdown isn't working._
 
 
 ## Bugs/Enhancements
-[] Dropdown not updating to newly selected value
-[] Remove hard coding of user id when creating orders (API supports multiple users and orders)
-[] Yeesh, make it look nice.  Wasted time with Bootstrap CSS not loading.
+- [ ] Dropdown not updating to newly selected value
+- [ ] Remove hard coding of user id when creating orders (API supports multiple users and orders)
+- [ ] Yeesh, make it look nice.  Wasted time with Bootstrap CSS not loading.
