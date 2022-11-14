@@ -1,5 +1,13 @@
 # Flask Stock Ticker Purchasing APP
 
+## PostMan API Collection Documentation
+* https://documenter.getpostman.com/view/6832471/2s8YmEykpv
+
+## Usage
+* `Start Backend`:
+  * Just run `bash startup.sh` after replacing your `POSTGRES` settings
+* `Start Frontend`
+  * `cd frontend` & `cd stock-trading` & `npm start`
 
 ## Initialize App Data
 
