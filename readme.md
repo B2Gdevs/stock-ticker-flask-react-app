@@ -28,7 +28,7 @@ If using your own DB, after running `flask shell`, import the db from the app an
 - [ ] Remove hard coding of user id when creating orders (API supports multiple users and orders)
 - [ ] Yeesh, make it look nice.  Wasted time with Bootstrap CSS not loading.
 
-### Kept going, don't like showing bad work at this stage in my career 😅.  This is before I continue after my 4hr mark:
+### Imma keep going, don't like showing bad work at this stage in my career 😅.  This is before I continue after my 4hr mark:
 > commit `2cf9da010c8a21182650365e8dd5dc6a734cf387`
 
 ## UI (First Functional View)
