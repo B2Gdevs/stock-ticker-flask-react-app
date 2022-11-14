@@ -35,7 +35,7 @@ If using your own DB, after running `flask shell`, import the db from the app an
 ![image](https://user-images.githubusercontent.com/25157436/201695812-d54f4b76-8a30-4b2c-add5-c6762613fb68.png)
 
 ## Data
-_It is being populated, but selecting the ticker in the dropdown isn't working._
+_It is being populated._
 ![image](https://user-images.githubusercontent.com/25157436/201696173-595b1ca6-a681-4c7d-8f11-5c7f9399a1ec.png)
 
 ![image](https://user-images.githubusercontent.com/25157436/201715834-59b79a0a-59fd-4cdb-8276-5cc618aa3a73.png)
