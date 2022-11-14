@@ -16,20 +16,12 @@ _I recommend to use a virtual env._
 ## Initialize App Data
 _for the challenge don't do this, it is already done, and I left the DB in tact with creds here._
 
-In flask shell run the models and create the tables
+If using your own DB, after running `flask shell`, import the db from the app and create the tables
 ```
 >>> from app import db, app
->>> from models import User, Order
 >>> db.create_all()
 >>>   
 ```
-## UI (First Functional View)
-![image](https://user-images.githubusercontent.com/25157436/201695812-d54f4b76-8a30-4b2c-add5-c6762613fb68.png)
-
-## Data
-_It is being populated, but selecting the ticker in the dropdown isn't working._
-![image](https://user-images.githubusercontent.com/25157436/201696173-595b1ca6-a681-4c7d-8f11-5c7f9399a1ec.png)
-
 
 ## Bugs/Enhancements
 - [x] Dropdown not updating to newly selected value
@@ -37,4 +29,12 @@ _It is being populated, but selecting the ticker in the dropdown isn't working._
 - [ ] Yeesh, make it look nice.  Wasted time with Bootstrap CSS not loading.
 
 ### Kept going, don't like showing bad work at this stage in my career 😅.  This is before I continue after my 4hr mark:
+
+## UI (First Functional View)
+![image](https://user-images.githubusercontent.com/25157436/201695812-d54f4b76-8a30-4b2c-add5-c6762613fb68.png)
+
+## Data
+_It is being populated, but selecting the ticker in the dropdown isn't working._
+![image](https://user-images.githubusercontent.com/25157436/201696173-595b1ca6-a681-4c7d-8f11-5c7f9399a1ec.png)
+
 ![image](https://user-images.githubusercontent.com/25157436/201715834-59b79a0a-59fd-4cdb-8276-5cc618aa3a73.png)
