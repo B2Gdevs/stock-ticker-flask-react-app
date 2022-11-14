@@ -29,6 +29,7 @@ If using your own DB, after running `flask shell`, import the db from the app an
 - [ ] Yeesh, make it look nice.  Wasted time with Bootstrap CSS not loading.
 
 ### Kept going, don't like showing bad work at this stage in my career 😅.  This is before I continue after my 4hr mark:
+> commit `2cf9da010c8a21182650365e8dd5dc6a734cf387`
 
 ## UI (First Functional View)
 ![image](https://user-images.githubusercontent.com/25157436/201695812-d54f4b76-8a30-4b2c-add5-c6762613fb68.png)
