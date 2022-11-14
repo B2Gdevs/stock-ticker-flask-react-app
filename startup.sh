@@ -4,4 +4,4 @@ export POSTGRES_USER="postgres"
 export POSTGRES_PASSWORD="<your_password>"
 export POSTGRES_DB="<your_db>"
 
-python main.py
+python app.py
